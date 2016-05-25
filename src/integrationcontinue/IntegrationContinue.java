@@ -17,6 +17,8 @@ public class IntegrationContinue {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(isPair1(3));
+        
+        System.out.println("Ceci est un test de commit");
     }
     
     /**
